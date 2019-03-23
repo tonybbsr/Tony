@@ -2,6 +2,8 @@ import psycopg2
 from Config import config
 import csv
 
+#Hi Tony
+
 def connect():
     """ Connect to the PostgreSQL database server """
     conn = None
