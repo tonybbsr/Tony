@@ -1,5 +1,5 @@
 from configparser import ConfigParser
-
+#amara dho
 
 def config(filename='database.ini', section='postgresql'):
     # create a parser
